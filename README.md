@@ -16,7 +16,7 @@ Pythonを学ぶ１年生のためのリポジトリです。
 
 アニメーションも使用するためpowerpoint版もディレクトリ「powerpoint」に入っています。
 
-widowsで作成したものなのでwidows以外のパソコンでpowerpoint版を閲覧するとフォーマットが崩れて正しく表示されないので注意してください
+windowsで作成したものなのでwidows以外のパソコンでpowerpoint版を閲覧するとフォーマットが崩れて正しく表示されないので注意してください
 
 ## 開発環境
 Ubuntu16.04LTS ( Ubuntu18.04LTSでも可)
